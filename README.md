@@ -60,7 +60,6 @@ Terraform module to provision **Dataplex** resources on Google Cloud.
 **Education:** B.Tech, Computer Science and Engineering — RVR & JC College of Engineering (2010 – 2014)
 
 **Selected certifications (see [LinkedIn](https://www.linkedin.com/in/nag-gude/) for details):**  
-Microsoft Azure AI Fundamentals · Azure Data Fundamentals · GitLab Certified Associate · GitOps (Codefresh) · PCEP (Python) · Introduction to Data Studio (Google) · KCNA (Kubernetes & Cloud Native Associate, Linux Foundation) — plus ongoing GCP and data-platform learning.
 
 **Recognition:** Multiple **Infosys Insta Awards** for technical contribution.
 
@@ -68,7 +67,6 @@ Microsoft Azure AI Fundamentals · Azure Data Fundamentals · GitLab Certified A
 
 - **LinkedIn:** [linkedin.com/in/nag-gude](https://www.linkedin.com/in/nag-gude/)
 - **GitHub:** [github.com/nag-gude](https://github.com/nag-gude)
-- **Location:** Basingstoke, United Kingdom
 
 
 *Open to collaboration on data platforms, GCP data engineering, FinOps-aware pipelines, and observability tooling.*
